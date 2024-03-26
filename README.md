@@ -7,6 +7,7 @@ The aim of this game is to defeat the Dragon in the last room. The game’s flow
 
 ## How To Run The Game
 Run the main.cpp
+
 Since there're codes from C++11, such as "override", the compiler should have c++11 extenstions in order to run the program smoothly.
 
 ## Reflections & Improvements In The Future
